@@ -36,8 +36,11 @@ namespace Lab_9_4
             Console.WriteLine("Enter text for HTML header");
             
             string typeWriterH = Console.ReadLine();
+            Console.WriteLine("Enter an item");
             string typeWriterL1 = Console.ReadLine();
+            Console.WriteLine("Enter an item");
             string typeWriterL2 = Console.ReadLine();
+            Console.WriteLine("Enter an item");
             string typeWriterL3 = Console.ReadLine();
 
 
